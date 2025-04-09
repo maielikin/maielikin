@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Maisie 👋
+
+I'm a Data Science Master's student passionate about sports analytics, predictive modeling, and data storytelling. Currently finishing my degree and looking for opportunities in Dallas, TX.
+
+## 🛠️ Projects
+- **2022 World Cup Predictor**: Trained ML models to simulate the 2022 tournament using past FIFA data  
+-
+-
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/maisiekincaid)
+
 
 <!--
 **maielikin/maielikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
