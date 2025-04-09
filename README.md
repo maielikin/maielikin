@@ -1,6 +1,6 @@
 # Hi, I'm Maisie 👋
 
-I'm a Data Science Master's student passionate about sports analytics, predictive modeling, and data storytelling. Currently finishing my degree and looking for opportunities in Dallas, TX.
+I'm a Data Science Master's student passionate about sports analytics, predictive modeling, and data storytelling. Currently finishing my degree and looking for opportunities in the Data world.
 
 ## 🛠️ Projects
 - **2022 World Cup Predictor**: Trained ML models to simulate the 2022 tournament using past FIFA data  
